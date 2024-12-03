@@ -1,1 +1,3 @@
-# forget-me-not-ai
+# Alzheimer's Detection Using CNN
+
+
